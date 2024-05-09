@@ -1,6 +1,7 @@
 import classnames from 'classnames'
-import { Button, ImageMock } from 'components'
-import { calcPrice } from 'helpers'
+import Button from './Button'
+import ImageMock from './ImageMock'
+import calcPrice from '../helpers/calcPrice'
 
 const ClothingCard = (
     { description, basePrice, discount, moreColors, className }:

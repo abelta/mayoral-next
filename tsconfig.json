@@ -21,7 +21,7 @@
       "node_modules/@types",
       "src/@types"
     ],
-    "baseUrl": "./src",
+    "baseUrl": "src",
     "incremental": true
   },
   "include": [
@@ -31,9 +31,11 @@
     "**/*.js",
     "**/*.graphql",
     "**/*.gql",
-    "**/*.json"
+    "**/*.json",
+    "src"
   ],
   "exclude": [
+    "**/*.test.tsx",
     "node_modules"
   ]
 }

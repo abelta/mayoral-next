@@ -1,5 +1,5 @@
 import classnames from 'classnames'
-import { MagnifyingGlass } from 'icons'
+import MagnifyingGlass from '../icons/MagnifyingGlass'
 
 const SearchInput = ({ className, onKeyUp }:{ className?: string, onKeyUp?: (val: string) => void }) => {
     return (

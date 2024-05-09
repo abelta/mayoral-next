@@ -1,5 +1,5 @@
-import { ClothingItem } from 'types'
-import { calcPrice } from 'helpers'
+import ClothingItem from '../types/ClothingItem'
+import calcPrice from '../helpers/calcPrice'
 import items from './clothingItemsMock.json'
 
 const delay = (ms: number) => new Promise(resolve => setTimeout(resolve, ms))

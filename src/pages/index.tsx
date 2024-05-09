@@ -1,9 +1,11 @@
 import { useState, useEffect } from 'react'
 import { NextPage } from 'next'
 import classnames from 'classnames'
-import { getClothingItems } from 'api'
-import { ClothingList, OrderControl, SearchInput } from 'components'
-import { ClothingItem as ClothingItemType } from 'types'
+import getClothingItems from '../api/getClothingItems'
+import ClothingList from '../components/ClothingList'
+import OrderControl from '../components/OrderControl'
+import SearchInput from '../components/SearchInput'
+import ClothingItemType from '../types/ClothingItem'
 
 const HomePage: NextPage = ({ clothing }: { clothing: ClothingItemType[] }) => {
   const [clothingItems, setClothingItems] = useState<ClothingItemType[]>(clothing)

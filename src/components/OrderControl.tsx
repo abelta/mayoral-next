@@ -1,6 +1,7 @@
 import classnames from 'classnames'
-import { ButtonNav } from 'components'
-import { Minus, Plus } from 'icons'
+import ButtonNav from './ButtonNav'
+import Minus from '../icons/Minus'
+import Plus from '../icons/Plus'
 
 const OrderControl = (
     { className, onClickPlus, onClickMinus, order }
@@ -11,10 +12,16 @@ const OrderControl = (
             data-testid="order-control"
             className={classnames('w-24 flex justify-between', className)}
         >
-            <ButtonNav className="h-10 w-10" onClick={onClickMinus}>
+            <ButtonNav
+                className="h-10 w-10"
+                onClick={onClickMinus}
+            >
                 <Minus color={order === 'desc' ? 'darkgrey' : 'lightgrey'} />
             </ButtonNav>
-            <ButtonNav className="h-10 w-10" onClick={onClickPlus}>
+            <ButtonNav
+                className="h-10 w-10"
+                onClick={onClickPlus}
+            >
                 <Plus color={order === 'asc' ? 'darkgrey' : 'lightgrey'} />
             </ButtonNav>
         </nav>
