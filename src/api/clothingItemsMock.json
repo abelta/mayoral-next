@@ -1,0 +1,317 @@
+[
+    {
+        "id": 1,
+        "description": "Pantalones de algodón cómodos",
+        "basePrice": 22.99,
+        "discount": 10,
+        "moreColors": true
+    },
+    {
+        "id": 2,
+        "description": "Chaqueta de cuero elegante",
+        "basePrice": 45.00,
+        "discount": 0,
+        "moreColors": false
+    },
+    {
+        "id": 3,
+        "description": "Suéter de lana suave",
+        "basePrice": 35.50,
+        "discount": 20,
+        "moreColors": true
+    },
+    {
+        "id": 4,
+        "description": "Camiseta de seda suave",
+        "basePrice": 15.00,
+        "discount": 0,
+        "moreColors": true
+    },
+    {
+        "id": 5,
+        "description": "Jeans de denim resistente",
+        "basePrice": 30.00,
+        "discount": 10,
+        "moreColors": false
+    },
+    {
+        "id": 6,
+        "description": "Falda de lino ligera",
+        "basePrice": 25.00,
+        "discount": 10,
+        "moreColors": true
+    },
+    {
+        "id": 7,
+        "description": "Camisa de algodón transpirable",
+        "basePrice": 20.00,
+        "discount": 0,
+        "moreColors": false
+    },
+    {
+        "id": 8,
+        "description": "Pantalones cortos de denim casual",
+        "basePrice": 18.50,
+        "discount": 20,
+        "moreColors": true
+    },
+    {
+        "id": 9,
+        "description": "Vestido de seda elegante",
+        "basePrice": 40.00,
+        "discount": 0,
+        "moreColors": true
+    },
+    {
+        "id": 10,
+        "description": "Blusa de lino cómoda",
+        "basePrice": 22.00,
+        "discount": 10,
+        "moreColors": false
+    },
+    {
+        "id": 11,
+        "description": "Chaqueta de lana cálida",
+        "basePrice": 45.00,
+        "discount": 20,
+        "moreColors": true
+    },
+    {
+        "id": 12,
+        "description": "Camiseta de algodón suave",
+        "basePrice": 15.00,
+        "discount": 0,
+        "moreColors": false
+    },
+    {
+        "id": 13,
+        "description": "Pantalones de lana elegantes",
+        "basePrice": 35.50,
+        "discount": 10,
+        "moreColors": true
+    },
+    {
+        "id": 14,
+        "description": "Vestido de algodón ligero",
+        "basePrice": 30.00,
+        "discount": 20,
+        "moreColors": false
+    },
+    {
+        "id": 15,
+        "description": "Blusa de seda elegante",
+        "basePrice": 25.00,
+        "discount": 0,
+        "moreColors": true
+    },
+    {
+        "id": 16,
+        "description": "Pantalones de cuero estilizados",
+        "basePrice": 45.00,
+        "discount": 10,
+        "moreColors": false
+    },
+    {
+        "id": 17,
+        "description": "Camisa de lino transpirable",
+        "basePrice": 20.00,
+        "discount": 20,
+        "moreColors": true
+    },
+    {
+        "id": 18,
+        "description": "Pantalones cortos de algodón casual",
+        "basePrice": 18.50,
+        "discount": 0,
+        "moreColors": false
+    },
+    {
+        "id": 19,
+        "description": "Vestido de lino elegante",
+        "basePrice": 40.00,
+        "discount": 10,
+        "moreColors": true
+    },
+    {
+        "id": 20,
+        "description": "Blusa de algodón cómoda",
+        "basePrice": 22.00,
+        "discount": 20,
+        "moreColors": false
+    },
+    {
+        "id": 21,
+        "description": "Chaqueta de algodón cálida",
+        "basePrice": 45.00,
+        "discount": 0,
+        "moreColors": true
+    },
+    {
+        "id": 22,
+        "description": "Camiseta de lino suave",
+        "basePrice": 15.00,
+        "discount": 10,
+        "moreColors": false
+    },
+    {
+        "id": 23,
+        "description": "Pantalones de seda elegantes",
+        "basePrice": 35.50,
+        "discount": 20,
+        "moreColors": true
+    },
+    {
+        "id": 24,
+        "description": "Vestido de seda ligero",
+        "basePrice": 30.00,
+        "discount": 0,
+        "moreColors": false
+    },
+    {
+        "id": 25,
+        "description": "Blusa de lana elegante",
+        "basePrice": 25.00,
+        "discount": 10,
+        "moreColors": true
+    },
+    {
+        "id": 26,
+        "description": "Chaqueta de denim resistente",
+        "basePrice": 40.00,
+        "discount": 20,
+        "moreColors": true
+    },
+    {
+        "id": 27,
+        "description": "Camisa de seda transpirable",
+        "basePrice": 20.00,
+        "discount": 0,
+        "moreColors": false
+    },
+    {
+        "id": 28,
+        "description": "Pantalones cortos de lino casual",
+        "basePrice": 18.50,
+        "discount": 10,
+        "moreColors": true
+    },
+    {
+        "id": 29,
+        "description": "Vestido de algodón elegante",
+        "basePrice": 35.00,
+        "discount": 20,
+        "moreColors": true
+    },
+    {
+        "id": 30,
+        "description": "Blusa de seda cómoda",
+        "basePrice": 22.00,
+        "discount": 0,
+        "moreColors": false
+    },
+    {
+        "id": 31,
+        "description": "Chaqueta de algodón cálida",
+        "basePrice": 45.00,
+        "discount": 10,
+        "moreColors": true
+    },
+    {
+        "id": 32,
+        "description": "Camiseta de lana suave",
+        "basePrice": 15.00,
+        "discount": 20,
+        "moreColors": false
+    },
+    {
+        "id": 33,
+        "description": "Pantalones de algodón elegantes",
+        "basePrice": 30.00,
+        "discount": 0,
+        "moreColors": true
+    },
+    {
+        "id": 34,
+        "description": "Vestido de lino ligero",
+        "basePrice": 25.00,
+        "discount": 10,
+        "moreColors": false
+    },
+    {
+        "id": 35,
+        "description": "Blusa de algodón elegante",
+        "basePrice": 20.00,
+        "discount": 20,
+        "moreColors": true
+    },
+    {
+        "id": 36,
+        "description": "Pantalones de lino estilizados",
+        "basePrice": 35.00,
+        "discount": 0,
+        "moreColors": false
+    },
+    {
+        "id": 37,
+        "description": "Camisa de algodón transpirable",
+        "basePrice": 15.00,
+        "discount": 10,
+        "moreColors": true
+    },
+    {
+        "id": 38,
+        "description": "Pantalones cortos de seda casual",
+        "basePrice": 18.50,
+        "discount": 20,
+        "moreColors": false
+    },
+    {
+        "id": 39,
+        "description": "Vestido de denim elegante",
+        "basePrice": 40.00,
+        "discount": 0,
+        "moreColors": true
+    },
+    {
+        "id": 40,
+        "description": "Blusa de lino cómoda",
+        "basePrice": 22.00,
+        "discount": 10,
+        "moreColors": false
+    },
+    {
+        "id": 41,
+        "description": "Chaqueta de seda cálida",
+        "basePrice": 45.00,
+        "discount": 20,
+        "moreColors": true
+    },
+    {
+        "id": 42,
+        "description": "Camiseta de algodón suave",
+        "basePrice": 15.00,
+        "discount": 0,
+        "moreColors": false
+    },
+    {
+        "id": 43,
+        "description": "Pantalones de denim elegantes",
+        "basePrice": 30.00,
+        "discount": 10,
+        "moreColors": true
+    },
+    {
+        "id": 44,
+        "description": "Vestido de algodón ligero",
+        "basePrice": 25.00,
+        "discount": 20,
+        "moreColors": false
+    },
+    {
+        "id": 45,
+        "description": "Blusa de seda elegante",
+        "basePrice": 20.00,
+        "discount": 0,
+        "moreColors": true
+    }
+]
